@@ -10,7 +10,9 @@
 </p>
 
 <div align="center">
-  <i>Reach me out 👇</i><br>
+	
+  <i>Reach me out 👇</i>
+	
   <a href="https://codepen.io/maiquitome" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="Codepen">
   </a>
