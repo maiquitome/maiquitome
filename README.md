@@ -20,6 +20,7 @@
 </div><br>
 
 <div align="left">
+	
   <i>Reach me out 👇</i><br>
 	
   <a href="https://codepen.io/maiquitome" target="_blank">
