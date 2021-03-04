@@ -21,13 +21,13 @@
 
 [![codepen][image]][link]
 
-[image]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
-[link]: https://codepen.io/maiquitome "Codepen"
+  [image]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+  [link]: https://codepen.io/maiquitome "Codepen"
+  
+[![youtube][image]][link]
 
-
-<a href="https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube">
-</a>
+  [image]: https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
+  [link]: https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw "Youtube"
 
 <a href="https://medium.com/@maiquitome" target="_blank">
 <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> 
