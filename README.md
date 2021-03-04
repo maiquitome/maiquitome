@@ -1,7 +1,7 @@
 ## Hey, I'm Maiqui Pirolli Tomé!  😀👋
 - 👶🏻 Born in São Marcos <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 - 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
-- 👨‍💻 Front-end Developer
+- 👨‍💻 Front-end Developer<br>
 
 <div align="left">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +21,7 @@
 
 <div align="left">
   <i>Reach me out 👇</i><br>
-  
+	
   <a href="https://codepen.io/maiquitome" target="_blank">
 	<img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="Codepen"> 
   </a>
