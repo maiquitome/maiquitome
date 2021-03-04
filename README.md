@@ -1,4 +1,4 @@
-### Hey, I'm Maiqui Pirolli Tomé!  😀👋
+## Hey, I'm Maiqui Pirolli Tomé!  😀👋
 - 👶🏻 Born in São Marcos <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 - 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 - 👨‍💻 Front-end Developer
