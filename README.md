@@ -17,10 +17,12 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white")
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white")
 	
-*Reach me out* 👇 
+*Reach me out* 👇
 
-[codepen_link]: https://codepen.io/maiquitome "Codepen"
-[codepen_image]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+[![codepen][image]][link]
+
+[image]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+[link]: https://codepen.io/maiquitome "Codepen"
 
 
 <a href="https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw" target="_blank">
