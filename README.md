@@ -14,11 +14,12 @@
 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </div>
+ 
 
 <div align="left">
 	
-  <i>Reach me out 👇</i>
-
+  <i align="center">Reach me out 👇</i>
+  
   <a href="https://codepen.io/maiquitome" target="_blank">
 	<img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="Codepen"> 
   </a>
