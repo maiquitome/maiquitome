@@ -16,37 +16,33 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white")
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white")
-
-
-<div align="left">
 	
-  <i>Reach me out 👇</i><br>
-	
-  <a href="https://codepen.io/maiquitome" target="_blank">
-	<img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="Codepen"> 
-  </a>
+*Reach me out* 👇 
 
-  <a href="https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw" target="_blank">
-	<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube">
-  </a>
+[codepen_link]: https://codepen.io/maiquitome "Codepen"
+[codepen_image]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
 
-  <a href="https://medium.com/@maiquitome" target="_blank">
-	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> 
-  </a>
 
-  <a href="https://www.linkedin.com/in/maiquitome" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<a href="https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube">
+</a>
 
-  <a href="https://www.instagram.com/maiquitome" target="_blank">
-	<img src="https://img.shields.io/badge/Instagram-D8226B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<a href="https://medium.com/@maiquitome" target="_blank">
+<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> 
+</a>
 
-  <a href="https://www.facebook.com/maiquitome" target="_blank">
-	<img src="https://img.shields.io/badge/Facebook-0674E7.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
+<a href="https://www.linkedin.com/in/maiquitome" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-  <a href="https://twitter.com/MaiquiTome" target="_blank">
-	<img src="https://img.shields.io/badge/twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
-  </a>
-</div>
+<a href="https://www.instagram.com/maiquitome" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-D8226B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.facebook.com/maiquitome" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-0674E7.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://twitter.com/MaiquiTome" target="_blank">
+<img src="https://img.shields.io/badge/twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+</a>
