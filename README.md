@@ -13,6 +13,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 <br /><br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&layout=compact&theme=radical" />
+
 <hr>
 
 *Reach out to me* 👇
