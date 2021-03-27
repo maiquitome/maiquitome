@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<img src="https://elixir-lang.org/images/logo/logo.png" height="40" /><img src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png" height="40" />
+<img src="https://elixir-lang.org/images/logo/logo.png" height="40" />&nbsp;&nbsp;<img src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png" height="40" />
 
 <br />
 
