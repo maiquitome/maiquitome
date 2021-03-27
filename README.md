@@ -9,13 +9,13 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-<img src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png" height="40" />
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<br /><br />
+
+<img src="https://elixir-lang.org/images/logo/logo.png" height="40" /><img src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png" height="40" />
+
+<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&layout=compact&theme=radical" />
 
