@@ -12,6 +12,7 @@
 <img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
 <img alt="sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
 <img alt="typescript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
+<img alt="angular" height="40" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"> &nbsp;
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=10&theme=radical)](https://github.com/maiquitome/github-readme-stats)
