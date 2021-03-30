@@ -17,7 +17,7 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&layout=compact&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=10&theme=radical)](https://github.com/maiquitome/github-readme-stats)
 
 <hr>
 
