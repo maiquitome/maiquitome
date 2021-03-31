@@ -16,7 +16,7 @@
 <img alt="angular" height="30" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"> &nbsp;
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=10&theme=radical)](https://github.com/maiquitome/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=10)](https://github.com/maiquitome/github-readme-stats)
 
 <hr>
 
