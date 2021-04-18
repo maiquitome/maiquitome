@@ -8,6 +8,8 @@
 <img alt="elixir" height="40" src="https://elixir-lang.org/images/logo/logo.png"> &nbsp;
 <img alt="phoenix" height="40" src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png">
 <img alt="erlang" height="40" src="https://www.erlang.org/img/erlang.png"> &nbsp;
+<img alt="ruby" height="40" src="http://openwhisk.apache.org/images/runtimes/icon-ruby-text-color-horz.png"> &nbsp;
+<img alt="rails" height="40" src="https://rubyonrails.org/images/rails-logo.svg"> &nbsp;
 <img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> &nbsp;
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
