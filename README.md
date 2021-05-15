@@ -3,7 +3,7 @@
 - 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 <br /><br />
 
-## Languages and tools: 👨‍💻 🤩
+## Languages and tools
 
 <img alt="elixir" height="40" src="https://elixir-lang.org/images/logo/logo.png"> &nbsp;
 <img alt="phoenix" height="40" src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png">
@@ -16,6 +16,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
 
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=ex_livery&theme=radical)](https://github.com/maiquitome/ex_livery)
 <hr>
 
 *Reach out to me* 👇
