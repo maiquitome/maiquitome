@@ -24,6 +24,7 @@
 
 *Reach out to me* 👇
 
+[![Dev](https://img.shields.io/badge/DEV-000000?style=flat-square&logo=dev.to&logoColor=white "Dev")](https://dev.to/maiquitome)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white "Codepen")](https://codepen.io/maiquitome)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white "Youtube")](https://www.youtube.com/channel/UCoXn0XyxLsKpIE5px0UNuEw)
 [![Medium](https://img.shields.io/badge/Medium-black?&style=flat-square&logo=medium&logoColor=white "Medium")](https://medium.com/@maiquitome)
