@@ -16,6 +16,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
 
+## Articles
+[Instalação das ferramentas de um desenvolvedor Elixir](https://dev.to/maiquitome/instalacao-das-ferramentas-de-um-desenvolvedor-elixir-1bjm)
+
 ## Projects
 
 [![vscode_elixir_theme](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=vscode_elixir_theme&theme=radical)](https://github.com/maiquitome/vscode_elixir_theme)
