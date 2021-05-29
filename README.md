@@ -17,7 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
 
 ## Articles
-[Instalação das ferramentas de um desenvolvedor Elixir](https://dev.to/maiquitome/instalacao-das-ferramentas-de-um-desenvolvedor-elixir-1bjm)
+- [Instalação das ferramentas de um desenvolvedor Elixir](https://dev.to/maiquitome/instalacao-das-ferramentas-de-um-desenvolvedor-elixir-1bjm)
+- [O Ciclo de Vida do Request no Phoenix](https://dev.to/maiquitome/o-ciclo-de-vida-do-request-no-phoenix-53e7)
 
 ## Projects
 
