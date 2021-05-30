@@ -12,6 +12,8 @@
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
 <img alt="sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
+<img alt="graphql" height="40" src="https://graphql.org/img/logo.svg"> &nbsp;
+
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
