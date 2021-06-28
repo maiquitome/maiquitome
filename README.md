@@ -25,7 +25,7 @@
 ## Projects
 
 [![vscode_elixir_theme](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=vscode_elixir_theme&theme=radical)](https://github.com/maiquitome/vscode_elixir_theme)
-[![ex_livery](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=ex_livery&theme=radical)](https://github.com/maiquitome/ex_livery)
+[![rockelivery](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=rockelivery&theme=radical)](https://github.com/maiquitome/rockelivery_api)
 <hr>
 
 *Reach out to me* 👇
