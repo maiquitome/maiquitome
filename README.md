@@ -5,6 +5,8 @@
 
 ## Languages and tools
 
+<img alt="ruby" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/260px-Ruby_logo.svg.png"> &nbsp;
+<img alt="ruby on rails" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png"> &nbsp;
 <img alt="elixir" height="40" src="https://elixir-lang.org/images/logo/logo.png"> &nbsp;
 <img alt="phoenix" height="40" src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png">
 <img alt="erlang" height="40" src="https://www.erlang.org/img/erlang.png"> &nbsp;
