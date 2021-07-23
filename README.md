@@ -3,16 +3,6 @@
 - 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 <br /><br />
 
-## Backend
-
-<img alt="ruby" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/260px-Ruby_logo.svg.png"> &nbsp;
-<img alt="ruby on rails" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png"> &nbsp;
-<img alt="elixir" height="40" src="https://elixir-lang.org/images/logo/logo.png"> &nbsp;
-<img alt="phoenix" height="40" src="https://github.com/phoenixframework/media/blob/master/badges/poweredby-phoenix-badge1-02.png">
-<img alt="postgresql" height="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"> &nbsp;
-<img alt="sql" height="40" src="https://image.flaticon.com/icons/png/512/2772/2772128.png"> &nbsp;
-<img alt="graphql" height="40" src="https://graphql.org/img/logo.svg"> &nbsp;
-
 ## Frontend and Mobile
 
 <img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
