@@ -18,14 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
 
-## Articles
-- [Instalação das ferramentas de um desenvolvedor Elixir](https://dev.to/maiquitome/instalacao-das-ferramentas-de-um-desenvolvedor-elixir-1bjm)
-- [O Ciclo de Vida do Request no Phoenix](https://dev.to/maiquitome/o-ciclo-de-vida-do-request-no-phoenix-53e7)
-
-## Projects
-
-[![vscode_elixir_theme](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=vscode_elixir_theme&theme=dark)](https://github.com/maiquitome/vscode_elixir_theme)
-[![rockelivery](https://github-readme-stats.vercel.app/api/pin/?username=maiquitome&repo=rockelivery_api&theme=dark)](https://github.com/maiquitome/rockelivery_api)
 <hr>
 
 *Reach out to me* 👇
