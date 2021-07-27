@@ -3,16 +3,12 @@
 - 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
 <br /><br />
 
-## Frontend and Mobile
+## Tools and Languages
 
-<img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
-<img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> &nbsp;
-<img alt="sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
-<img alt="bootstrap" height="40" src="https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png"> &nbsp;
-<img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img alt="typescript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> &nbsp;
-<img alt="react" height="40" src="https://blog.hariken.co/wp-content/uploads/2019/03/react-logo.png">
-<img alt="react native" height="40" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png">
+<img alt="dart" height="40" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"> &nbsp;
+<img alt="flutter" height="40" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png"> &nbsp;
+<img alt="firebase" height="40" src="https://www.gstatic.com/devrel-devsite/prod/v854c54f3442b5b06d97cb2bf43f3647f489796c80c33899ecd29b91ae5303388/firebase/images/lockup.png"> &nbsp;
+<img alt="graphql" height="40" src="https://graphql.org/img/logo.svg"> &nbsp;
 
 <br />
 
