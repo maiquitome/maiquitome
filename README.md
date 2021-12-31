@@ -7,6 +7,8 @@
 
 <hr>
 
+[![Rockelivery](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=Rockelivery&theme=dark)](https://github.com/maiquitome/rockelivery_api)
+
 *Reach out to me* 👇
 
 [![Dev](https://img.shields.io/badge/DEV-000000?style=flat-square&logo=dev.to&logoColor=white "Dev")](https://dev.to/maiquitome)
