@@ -7,7 +7,8 @@
 
 <hr>
 
-[![Rockelivery](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=Rockelivery&theme=dark)](https://github.com/maiquitome/rockelivery_api)
+[![Rockelivery](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=rockelivery_api&theme=dark)](https://github.com/maiquitome/rockelivery_api)
+[![average_calculator](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=average_calculator&theme=dark)](https://github.com/maiquitome/average_calculator)
 
 *Reach out to me* 👇
 
