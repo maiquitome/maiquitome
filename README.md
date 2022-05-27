@@ -1,7 +1,16 @@
-# Hey, I'm Maiqui Pirolli Tomé!  😀👋
-- 👶🏻 Born in São Marcos <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
-- 🏡 Living in Flores da Cunha <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/br/rio_grande_do_sul.png" alt="RS" width="16" height="11"/> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="BR" width="16" height="11"/>
-<br /><br />
+# Hey, Welcome!  😀👋
+
+```elixir
+def maiqui do
+  %{
+    full_name: "Maiqui Pirolli Tomé",
+    age: 29,
+    work: "Solfácil",
+    born_in: "São Marcos/RS",
+    living_in: "Flores da Cunha/RS"
+  }
+end
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
 
