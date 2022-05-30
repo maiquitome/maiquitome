@@ -1,7 +1,9 @@
 # Hey, Welcome!  😀👋
 
 ```elixir
-iex> Bolt.Sips.query!(conn, "match (n) return n limit 1") |> Bolt.Sips.Response.first 
+iex(1)> conn = Bolt.Sips.conn()
+#PID<0.248.0>
+iex(2)> Bolt.Sips.query!(conn, "match (n) return n limit 1") |> Bolt.Sips.Response.first 
 %{
   "n" => %Bolt.Sips.Types.Node{
     id: 0,
