@@ -1,15 +1,19 @@
 # Hey, Welcome!  😀👋
 
 ```elixir
-def maiqui do
-  %{
-    full_name: "Maiqui Pirolli Tomé",
-    age: 29,
-    work: "Solfácil",
-    born_in: "São Marcos/RS",
-    living_in: "Flores da Cunha/RS"
+iex> Bolt.Sips.query!(conn, "match (n) return n limit 1") |> Bolt.Sips.Response.first 
+%{
+  "n" => %Bolt.Sips.Types.Node{
+    id: 0,
+    labels: ["Person"],
+    properties: %{
+      "full_name" => "Maiqui Pirolli Tomé",
+      "works_at" => "Solfácil",
+      "born_in" => "São Marcos/RS",
+      "lives_in" => "Flores da Cunha/RS"
+    }
   }
-end
+}
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=radical)
