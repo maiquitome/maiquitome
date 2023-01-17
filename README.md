@@ -1,20 +1,10 @@
 # Hey, Welcome!  😀👋
 
-```elixir
-iex(1)> conn = Bolt.Sips.conn()
-#PID<0.248.0>
-iex(2)> Bolt.Sips.query!(conn, "match (n) return n limit 1") |> Bolt.Sips.Response.first 
-%{
-  "n" => %Bolt.Sips.Types.Node{
-    id: 0,
-    labels: ["Person"],
-    properties: %{
-      "full_name" => "Maiqui Pirolli Tomé",
-      "works_at" => "Solfácil",
-      "born_in" => "São Marcos/RS",
-      "lives_in" => "Flores da Cunha/RS"
-    }
-  }
+```json
+{
+  "full_name": "Maiqui Pirolli Tomé",
+  "born_in": "São Marcos/RS",
+  "lives_in": "Flores da Cunha/RS"
 }
 ```
 
