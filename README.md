@@ -12,9 +12,6 @@
 
 <hr>
 
-[![Rockelivery](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=rockelivery_api&theme=dark)](https://github.com/maiquitome/rockelivery_api)
-[![average_calculator](https://github-readme-stats.vercel.app/api/pin?username=maiquitome&repo=average_calculator&theme=dark)](https://github.com/maiquitome/average_calculator)
-
 *Reach out to me* 👇
 
 [![Dev](https://img.shields.io/badge/DEV-000000?style=flat-square&logo=dev.to&logoColor=white "Dev")](https://dev.to/maiquitome)
