@@ -13,6 +13,8 @@
 }
 ```
 
+<a href="https://app.rocketseat.com.br/me/maiqui-pirolli-tome-1566513354"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=maiqui-pirolli-tome-1566513354&type=card" width="280" alt="Maiqui Pirolli Tomé's Rocket ID"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=maiquitome&langs_count=20&theme=dark)
 
 <hr>
